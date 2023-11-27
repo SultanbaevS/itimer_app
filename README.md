@@ -1,16 +1,17 @@
-# timer_app
+# Timer App
 
-A new Flutter project.
+Timer App - это инновационный инструмент для управления временем, который помогает улучшить продуктивность и качество работы. Основываясь на методе Pomodoro, приложение разбивает ваш рабочий день на интервалы, известные как “помидоры”.
 
-## Getting Started
+## Особенности приложения:
 
-This project is a starting point for a Flutter application.
+### Таймер Pomodoro
+Установите таймер на 25 минут, сосредоточьтесь на задаче, а затем отдохните 5 минут. Это помогает уменьшить усталость и увеличить концентрацию.
 
-A few resources to get you started if this is your first Flutter project:
+### Персонализация
+Вы можете настроить длительность рабочих интервалов и перерывов в соответствии с вашими потребностями.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Уведомления
+Приложение напомнит вам о начале нового “помидора” или перерыва, чтобы вы могли следовать своему расписанию без отвлекающих факторов.
+
+С POMODORO Приложением вы можете эффективно управлять своим временем и улучшить свою продуктивность. Это идеальный инструмент для тех, кто хочет достичь большего в своей работе или учебе.
